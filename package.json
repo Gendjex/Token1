@@ -1,0 +1,38 @@
+{
+  "name": "Token",
+  "version": "1.0.0",
+  "description": "LINE",
+  "main": "./src/main.js",
+  "scripts": {
+    "start": "npm run vipro",
+    "vipro": "node ./src/vipro.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gendjex/Token1.git"
+  },
+  "author": "Vipro",
+  "license": "MIT",
+  "devDependencies": {
+    "qrcode-terminal": "^0.11.0",
+    "node-bignumber": "^1.2.1",
+    "utf8": "^2.1.1"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "thrift": "^0.10.0",
+    "thrift-http": "^1.0.1",
+    "unirest": "^0.5.0",
+    "request": "^2.0.0",
+    "request-promise": "^2.0.0",
+    "webp-converter": "^2.1.6",
+    "moment": "^2.18.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Gendjex/Token1/issues"
+  },
+  "homepage": "https://github.com/Gendjex/Token1#README",
+  "keywords": [
+    "line"
+  ]
+}
