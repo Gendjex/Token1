@@ -45,6 +45,10 @@ Cara Menjalankan Bot Kembali :
 - `cd Token1`
 - `npm start`
 
+Tutorial Video :
+------
+- `https://youtu.be/wdplUqUtX7Q`
+
 Thx To :
 ------
 - `Alfatdirk`
