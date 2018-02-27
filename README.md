@@ -12,7 +12,7 @@ Cara Install Bot Token Di Termux :
 - `pkg install git -y`
 - `git clone https://github.com/Gendjex/Token1`
 - `pkg install nano`
-- `cd AlphatTJ`
+- `cd Token1`
 - `npm install`
 - `npm i`
 - `npm i -g npm (Jika Update)`
@@ -35,7 +35,7 @@ Cara Install Bot Token Di C9/Server:
 - `sudo apt-get install nodejs`
 - `git clone https://github.com/Gendjex/Token1`
 - `ls`
-- `cd Token`
+- `cd Token1`
 - `npm i`
 - `npm i -g npm [apabila ada update]`
 - `npm start`
